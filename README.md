@@ -43,7 +43,9 @@ Compiling, Training, and Evaluating the Model
 
 
 6) What steps did you take to try and increase model performance?
-- For my first tweak I chose to add back the two columns that we removed originally, the second tweak I took out only one of the two columns that added back in the first           tweak, and then for the third tweak I added a third hidden layer
+- For my first tweak I chose to add back the two columns that we removed originally, the second tweak I took out only one of the two columns that added back in the first           tweak, and then for the third tweak I added a third hidden layer.
+
+---------------------------------------------------------------------------------------------------------------------
 
 Tweak #1
 
